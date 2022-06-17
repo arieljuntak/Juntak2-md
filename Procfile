@@ -1,1 +1,1 @@
-worker: npm start
+worker: --session 'session.data.json'
